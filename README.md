@@ -2,6 +2,11 @@
 
 A modern, responsive travel website built with Next.js and Tailwind CSS. This project showcases a beautiful landing page for a travel agency with features like destination showcases, testimonials, and a contact form.
 
+
+## 🖥️ Live Demo
+
+[Visit]([https://www.google.com](https://travel-agency-iota-steel.vercel.app/))
+
 ## 🚀 Features
 
 - **Modern UI/UX**: Clean and responsive design using Tailwind CSS
@@ -44,49 +49,4 @@ app/
 └── page.tsx
 ```
 
-## 🚀 Getting Started
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/wanderlust-travels.git
-   cd wanderlust-travels
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Run the development server**
-
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-4. **Open [http://localhost:3000](http://localhost:3000) in your browser**
-
-## 🎨 Customization
-
-- **Colors**: Edit the Tailwind configuration in `tailwind.config.js`
-- **Content**: Update the data in `app/lib/constants.ts`
-- **Images**: Replace images in the public directory or update image URLs
-- **Fonts**: Modify the font configuration in `app/layout.tsx`
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For any questions or suggestions, please open an issue in the repository.
-# Travel-Agency
