@@ -5,7 +5,7 @@ A modern, responsive travel website built with Next.js and Tailwind CSS. This pr
 
 ## 🖥️ Live Demo
 
-[Visit]([https://www.google.com](https://travel-agency-iota-steel.vercel.app/))
+[Visit](https://travel-agency-iota-steel.vercel.app/)
 
 ## 🚀 Features
 
